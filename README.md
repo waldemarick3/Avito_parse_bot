@@ -32,7 +32,6 @@ Instructions on how to use the project, including examples and screenshots.
 - `TG_USER_ID` - the ID of your Telegram account
 - `UPDATE_TIME` - time of automatic viewing of fresh posts
 - `url` - a link to a product page (it is important to set the sorting parameters by time of publication for the bot to work correctly)
-- `count` - meant to be a number of pages through parser (it hasn't been implemented yet)
 - `version_main` - your version of Chrome
 - `items` - keywords for selected items (post title or description should have at least one word from this list)
 - `max_price` - maximum price of the post
